@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yogiraj777
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 😄 Pronouns: No beast is savage than a man when possed with powers answerable to his own rage!
+- 😄 Pronouns: No beast is savage than a man when possed with powers answerable to his own rage!!
   
 
 <!---
